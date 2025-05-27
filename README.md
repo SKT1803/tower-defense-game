@@ -52,7 +52,7 @@ TowerDefense
 ## How to Run
 
    ```bash
-   git clone https://github.com/yourusername/tower-defense-java.git
+   git clone https://github.com/SKT1803/tower-defense-java.git
       cd tower-defense-java
 
    Compile the game:

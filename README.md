@@ -73,10 +73,23 @@ TowerDefense
 ---
 Gameplay
 <br>
-<img src="![2](https://github.com/user-attachments/assets/dbf51b66-db60-4aaf-acf6-c64b5bf9e511)
-" width="200" height="200">
-<img src="https://github.com/user-attachments/assets/128609ef-8798-4424-934a-7505c28b50bd" width="200" height="200">
-<img src="https://github.com/user-attachments/assets/44733f12-3919-46ca-988f-021abf72d0de" width="200" height="200">
+<table>
+  <tr>
+    <td><img src="screenshots/2.png" width="400"></td>
+    <td><img src="screenshots/3.png" width="400"></td>
+  </tr>
+     <tr>
+    <td><img src="screenshots/4.png" width="400"></td>
+    <td><img src="screenshots/5.png" width="400"></td>
+  </tr>
+     <tr>
+    <td><img src="screenshots/6.png" width="400"></td>
+    <td><img src="screenshots/7.png" width="400"></td>
+  </tr>
+     <tr>
+    <td><img src="screenshots/8.png" width="400"></td>
+  </tr>
+</table>
 
 
 
